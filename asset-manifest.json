@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/AishaMirza-portfolio/static/css/main.49e2adb6.css",
+    "main.js": "/AishaMirza-portfolio/static/js/main.0e231ff4.js",
+    "static/media/img.jpg": "/AishaMirza-portfolio/static/media/img.544fa25cae0e630ff5bd.jpg",
+    "index.html": "/AishaMirza-portfolio/index.html",
+    "main.49e2adb6.css.map": "/AishaMirza-portfolio/static/css/main.49e2adb6.css.map",
+    "main.0e231ff4.js.map": "/AishaMirza-portfolio/static/js/main.0e231ff4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.49e2adb6.css",
+    "static/js/main.0e231ff4.js"
+  ]
+}
