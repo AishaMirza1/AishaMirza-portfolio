@@ -5,6 +5,7 @@ import Hero from "./components/hero";
 import Icons from "./components/icons";
 import About from "./components/about";
 import Project from "./components/projects";
+
 export default function App() {
   return (
     <main>

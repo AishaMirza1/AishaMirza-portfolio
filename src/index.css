@@ -225,7 +225,7 @@ body::after {
 
 .overlay {
   opacity: 1;
-  background-color: rgba(100, 255, 219, 0.814);
+  background-color: rgba(100, 255, 219, 0.688);
   transition: all 0.5s ease;
 }
 .img-box-after {
@@ -254,9 +254,13 @@ picture:hover .img-box-after {
   position: relative;
 }
 .project-section .heading-territory::after {
-  top: 5%;
+  top: 2%;
   left: 36%;
 }
+.project-section .heading-territory {
+  margin-bottom: 10rem;
+}
+
 .project {
   grid-template-columns: 45% 55%;
 }
@@ -269,13 +273,13 @@ picture:hover .img-box-after {
 }
 .project-image-box .overlay {
   width: 125%;
-  height: 121%;
+  height: 122%;
   top: -32%;
   left: -11%;
 }
 .project-img {
   width: 125%;
-  height: 120%;
+  height: 121%;
   border-radius: 5px;
 }
 .project-outline {
@@ -285,6 +289,7 @@ picture:hover .img-box-after {
   letter-spacing: 1.4px;
   margin-bottom: 1.2rem;
 }
+
 .project-outline,
 .project-name {
   text-align: end;
@@ -307,7 +312,7 @@ picture:hover .img-box-after {
   background-color: #112240;
   width: 100%;
   font-size: 1.8rem;
-
+  margin-top: 2rem;
   color: #a8b2d1;
   padding: 4rem;
   border-radius: 5px;
@@ -319,7 +324,7 @@ picture:hover .img-box-after {
 .project-icon-list {
   position: absolute;
   z-index: 9999;
-  top: 95%;
+  top: 111%;
   left: 80%;
 }
 .project-icon-list a {
@@ -329,4 +334,35 @@ picture:hover .img-box-after {
 .project-icon-list a {
   display: inline-block;
   margin: 0 0.5rem;
+}
+.project-list li {
+  margin-bottom: 22rem;
+}
+#KeeperApp .project-content {
+  grid-row: 1/2;
+}
+
+#KeeperApp .project-content .project-outline,
+.project-name {
+  text-align: start;
+}
+#KeeperApp .project-content .project-description {
+  left: 0%;
+  text-align: start;
+}
+#KeeperApp .project-img {
+  width: 110%;
+  height: 120%;
+}
+#KeeperApp .project-image-box .overlay {
+  width: 110%;
+  height: 120%;
+  top: -31.5%;
+  left: -9%;
+}
+#KeeperApp .project-content .project-icon-list {
+  left: 0%;
+}
+#Omnifood .project-content {
+  text-align: end;
 }
