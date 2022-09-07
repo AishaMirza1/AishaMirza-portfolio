@@ -33,7 +33,7 @@ export default function About() {
         <picture className="img-box">
           <img
             className="img"
-            src={require("../imgs/img.jpg")}
+            src={require("./imgs/img.jpg")}
             alt="aisha mirza"
           ></img>
           <div className="overlay"></div>
