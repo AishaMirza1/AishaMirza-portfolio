@@ -13,13 +13,17 @@ export default function Navbar() {
             <a href="#about-section">About</a>
           </li>
           <li className="nav-links">
-            <span className="nav-no">02.</span> <a href="#">Work</a>
+            <span className="nav-no">02.</span> <a href="#work">Work</a>
           </li>
           <li className="nav-links">
             <span className="nav-no">03.</span> <a href="#">Contact</a>
           </li>
           <li>
-            <a href="#" className="btn resume-btn">
+            <a
+              href="http..//../public/resume.html"
+              target="_blank"
+              className="btn resume-btn"
+            >
               Resume
             </a>
           </li>

@@ -18,7 +18,7 @@ export default function Project(props) {
     );
   });
   return (
-    <section className="project-section">
+    <section className="project-section" id="work">
       <div className="project-section-headingbox">
         <span className="nav-no heading-no">02. </span>
         <p className="heading-territory" href="#">
