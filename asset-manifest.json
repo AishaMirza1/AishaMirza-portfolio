@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/AishaMirza-portfolio/static/css/main.bf27f986.css",
-    "main.js": "/AishaMirza-portfolio/static/js/main.ce2d7b8b.js",
+    "main.css": "/AishaMirza-portfolio/static/css/main.0557ceed.css",
+    "main.js": "/AishaMirza-portfolio/static/js/main.41d678f4.js",
     "static/media/omnifood.png": "/AishaMirza-portfolio/static/media/omnifood.fe7aa156234f26fb5239.png",
     "static/media/img.jpg": "/AishaMirza-portfolio/static/media/img.544fa25cae0e630ff5bd.jpg",
     "static/media/keeper-app.png": "/AishaMirza-portfolio/static/media/keeper-app.79a23bf6180ab04cfe89.png",
     "index.html": "/AishaMirza-portfolio/index.html",
-    "main.bf27f986.css.map": "/AishaMirza-portfolio/static/css/main.bf27f986.css.map",
-    "main.ce2d7b8b.js.map": "/AishaMirza-portfolio/static/js/main.ce2d7b8b.js.map"
+    "main.0557ceed.css.map": "/AishaMirza-portfolio/static/css/main.0557ceed.css.map",
+    "main.41d678f4.js.map": "/AishaMirza-portfolio/static/js/main.41d678f4.js.map"
   },
   "entrypoints": [
-    "static/css/main.bf27f986.css",
-    "static/js/main.ce2d7b8b.js"
+    "static/css/main.0557ceed.css",
+    "static/js/main.41d678f4.js"
   ]
 }
